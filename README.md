@@ -1,4 +1,4 @@
-A Comprehensive Comparison and Analysis of Machine Learning Algorithms for Twitter Geographic Location Prediction 
+A Comprehensive Comparison and Analysis of Machine Learning Algorithms for Twitter Geographic Location Prediction  - PUBLICATION IN PROGRESS
 
 Project Abstract 
 --------------------
