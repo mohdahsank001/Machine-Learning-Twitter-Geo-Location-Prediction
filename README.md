@@ -1,5 +1,31 @@
 A Comprehensive Comparison and Analysis of Machine Learning Algorithms for Twitter Geographic Location Prediction  - PUBLICATION IN PROGRESS
 
+Instructions to run the file : 
+
+ 1. Please run the code sequentially from the beginning or go to Cell tab and click on run all in the jupyter notebook.
+ 2. All of the codes have been provided with additional comments and explanation.
+
+Requirements :  (Add additional requirements file with only the libraries)
+NOTE : The program will only run with following libraries installed (make sure all of the latest version is installed within your dev. environment). 
+
+1. seaborn (pip install -U seaborn)
+2. matplotlib.pyplot 
+3. pandas
+4. warnings
+5. csv 
+6. Sklearn (latest version after v 0.22 with plot confusion_matrix and more.) 
+
+How to install package : 
+----------------------------
+Please refer to appropriate documentation for installation of packages. 
+
+Example usage : 
+To Install latest version of scikit learn or once installed run the command pip install - - upgrade scikit-learn from the terminal. 
+
+
+
+
+
 Project Abstract 
 --------------------
 
@@ -34,5 +60,4 @@ K fold cross validation was used to approximate the skill of a model. The object
 Results 
 ------------
 Random Forest classifier would outperform the other classifiers with the best accuracy and also best macro averaged f1 score in the first phase over LR and kNN models. Hence it can be chosen as the model to do predictions. Moreover, the results also show that all of the classifiers would give good accuracy, however when doing a comparative analysis random forest classifier can be preferred for performing geolocation predictions based on twitter tweets. 
-
 
