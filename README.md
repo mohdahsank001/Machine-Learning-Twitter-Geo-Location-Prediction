@@ -1,5 +1,6 @@
 A Comprehensive Comparison and Analysis of Machine Learning Algorithms for Twitter Geographic Location Prediction  - PUBLICATION IN PROGRESS
 
+```
 Instructions to run the file : 
 
  1. Please run the code sequentially from the beginning or go to Cell tab and click on run all in the jupyter notebook.
@@ -21,7 +22,7 @@ Please refer to appropriate documentation for installation of packages.
 
 Example usage : 
 To Install latest version of scikit learn or once installed run the command pip install - - upgrade scikit-learn from the terminal. 
-
+```
 
 
 
